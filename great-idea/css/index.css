@@ -179,53 +179,6 @@ section {
 }
 
 
-.wrapper .about-content {
-    display: inline-block;
-    width: 320px;
-    margin-right: 30px;
-    
-}
-
-.wrapper .feature-content {
-    width: 300px;
-    display: inline-block;
-    float: right;
-}
-
-.wrapper .service-content {
-    width: 300px;
-    display: inline-block;
-     float: right;
-    margin-right: 20px;
-    
-   
-}
-
-.wrapper .product-content {
-    width: 300px;
-    display: inline-block;
-    float: right;
-  
-    
-
-}
-
-
-
-.wrapper .vision-content {
-    width: 280px;
-    display: inline-block;
-}
-
-
-/*
-.wrapper .contact-content {
-    width: 100px;
-    display: inline-block;
-    float: left;
-
-}
-*/
 
 
 .contact-content {
